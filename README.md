@@ -11,4 +11,4 @@ Data used for prospective analysis of each metaverse application.
 Data sources are included in the documents.
 
 ## Climate Model Parameters
-Include templates for climate model emulation for all scenarios.
+Include input parameters for climate model emulations for all scenarios.
